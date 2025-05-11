@@ -2,11 +2,6 @@ IoT25-HW01
 
 code
 
-/*********
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
-*********/
-
 #include <Arduino.h>
 
 #define LED 2
